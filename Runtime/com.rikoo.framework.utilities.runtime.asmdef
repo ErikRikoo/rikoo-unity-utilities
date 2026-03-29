@@ -1,0 +1,15 @@
+{
+    "name": "com.rikoo.framework.utilities.runtime",
+    "rootNamespace": "Rikoo.Framework.Utilities",
+    "references": [
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

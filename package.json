@@ -1,0 +1,18 @@
+{
+  "name": "com.rikoo.framework.utilities",
+  "displayName": "Rikoo Utilities",
+  "version": "1.0.0",
+  "unity": "6000.0",
+  "licensesUrl": "See LICENSE.md",
+  "author": {
+    "name": "Erik Kubiak"
+  },
+  "description": "Various utilities to simpliy code.",
+  "dependencies": {
+    
+  },
+  "keywords": [
+    "Utility",
+    "Tool"
+  ]
+}

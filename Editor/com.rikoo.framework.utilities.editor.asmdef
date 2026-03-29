@@ -1,0 +1,14 @@
+{
+    "name": "com.rikoo.framework.utilities.editor",
+    "rootNamespace": "Rikoo.Framework.Utilities",
+    "references": [
+    ],
+    "includePlatforms": ["Editor"],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
